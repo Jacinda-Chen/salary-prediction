@@ -12,7 +12,7 @@ This project explores which features most influence salary using real-world data
 ## Project Overview
 
 This project uses a real-world salary dataset from Kaggle to explore which features most influence salary predictions.
-[View dataset here](https://www.kaggle.com/datasets/rkiattisak/salaly-prediction-for-beginer/data)
+[View dataset here on Kaggle](https://www.kaggle.com/datasets/rkiattisak/salaly-prediction-for-beginer/data)
 
 - Cleaned and preprocessed salary data (missing values, one-hot encoding, multicollinearity)
 - Built predictive models:
