@@ -1,0 +1,17 @@
+# === General Python ===
+__pycache__/
+*.py[cod]
+
+# === Colab-Specific ===
+*.bak
+
+# === OS Junk ===
+.DS_Store
+Thumbs.db
+
+# === Environment Files ===
+.env
+*.env
+
+# === VS Code (if used locally) ===
+.vscode/
