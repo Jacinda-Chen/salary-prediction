@@ -1,11 +1,11 @@
 # salary-prediction
-Exploring which features impact salary most using regression, SHAP, and K-Means Clustering
+Exploring which features impact salary most using regression, SHAP, and K-Means Clustering with PCA visualization
 
 # Salary Prediction Modeling
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jacinda-Chen/salary-prediction/blob/main/salary_modeling.ipynb)
 
-This project explores which features most influence salary using real-world data and a combination of linear and non-linear models. The notebook walks through data cleaning, exploratory analysis, multiple regression techniques, and SHAP for explainability.
+This project explores which features most influence salary using real-world data and a combination of linear and non-linear models. The notebook walks through data cleaning, exploratory analysis, multiple regression techniques, SHAP for explainability, and k-means clustering.
 
 ---
 
@@ -20,7 +20,7 @@ This project uses a real-world salary dataset from Kaggle to explore which featu
   - Ridge and Lasso Regression
   - Random Forest Regressor
 - Used SHAP to explain model behavior and feature contributions
-- Used K-Means clustering to see how the data naturally groups
+- Used K-Means clustering to see how the data naturally groups with PCA visualization
 - Analyzed potential fairness issues, including gender impact on predictions
 
 ---
@@ -43,7 +43,7 @@ This project uses a real-world salary dataset from Kaggle to explore which featu
 - Age and years of experience dominated in the tree-based Random Forest model
 - SHAP revealed which features drove individual predictions
 - Gender had a small but measurable effect — showing the importance of fairness analysis
-- Individuals with higher education and experience clustered into higher salary groups, consistent with model predictions.
+- Individuals with higher education and experience clustered into higher salary groups, consistent with model predictions
 
 ---
 
