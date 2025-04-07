@@ -20,6 +20,7 @@ This project uses a real-world salary dataset from Kaggle to explore which featu
   - Ridge and Lasso Regression
   - Random Forest Regressor
 - Used SHAP to explain model behavior and feature contributions
+- Used K-Means clustering to see how the data naturally groups
 - Analyzed potential fairness issues, including gender impact on predictions
 
 ---
@@ -42,6 +43,7 @@ This project uses a real-world salary dataset from Kaggle to explore which featu
 - Age and years of experience dominated in the tree-based Random Forest model
 - SHAP revealed which features drove individual predictions
 - Gender had a small but measurable effect — showing the importance of fairness analysis
+- Individuals with higher education and experience clustered into higher salary groups, consistent with model predictions.
 
 ---
 
