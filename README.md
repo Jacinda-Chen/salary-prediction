@@ -1,5 +1,5 @@
 # salary-prediction
-Exploring which features impact salary most using regression and SHAP
+Exploring which features impact salary most using regression, SHAP, and K-Means Clustering
 
 # Salary Prediction Modeling
 
