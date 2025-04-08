@@ -21,7 +21,7 @@ This project uses a real-world salary dataset from Kaggle to explore which featu
   - Random Forest Regressor
 - Used SHAP to explain model behavior and feature contributions
 - Used K-Means clustering to see how the data naturally groups with PCA visualization
-- Analyzed potential fairness issues, including gender impact on predictions
+- Analyzed potential fairness issues, including gender impact on predictions and Welch's t-test for statistical significance
 
 ---
 
@@ -42,7 +42,7 @@ This project uses a real-world salary dataset from Kaggle to explore which featu
 - Education level had the strongest linear influence on salary
 - Age and years of experience dominated in the tree-based Random Forest model
 - SHAP revealed which features drove individual predictions
-- Gender had a small but measurable effect — showing the importance of fairness analysis
+- Gender had a small but measurable effect, but was not statistically significant according to Welch's t-test
 - Individuals with higher education and experience clustered into higher salary groups, consistent with model predictions
 
 ---
