@@ -46,6 +46,13 @@ This project uses a real-world salary dataset from Kaggle to explore which featu
 - Individuals with higher education and experience clustered into higher salary groups, consistent with model predictions
 
 ---
+## Interactive Dashboard
+
+You can view the full Tableau dashboard here:
+
+[Explore the Salary Dashboard on Tableau Public](https://public.tableau.com/views/SalaryPredictionandInsights/Salary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
 
 ## Project Structure
 
