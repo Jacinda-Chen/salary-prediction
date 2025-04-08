@@ -1,5 +1,5 @@
 # salary-prediction
-Exploring which features impact salary most using regression, SHAP, and K-Means Clustering with PCA visualization
+Exploring which features impact salary most using regression, SHAP, and K-Means Clustering with PCA visualization. Interact with salary data on Tableau Public.
 
 # Salary Prediction Modeling
 
