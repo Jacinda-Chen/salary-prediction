@@ -1,5 +1,5 @@
 # salary-prediction
-Exploring which features impact salary most using regression, SHAP, and K-Means Clustering with PCA visualization. Interact with salary data on Tableau Public.
+Exploring which features impact salary most using regression, SHAP, and K-Means Clustering with PCA visualization. Performed a one-way ANOVA test and t-test to assess statistical significance. Interact with salary data on Tableau Public.
 
 # Salary Prediction Modeling
 
@@ -39,7 +39,7 @@ This project uses a real-world salary dataset from Kaggle to explore which featu
 
 ## Key Insights
 
-- Education level had the strongest linear influence on salary
+- Education level had the strongest linear influence on salary (Average salary by education levels were statistically significant by a one-way ANOVA test)
 - Age and years of experience dominated in the tree-based Random Forest model
 - SHAP revealed which features drove individual predictions
 - Gender had a small but measurable effect, but was not statistically significant according to Welch's t-test
